@@ -52,6 +52,10 @@
     font-size: 20px;
     color: white;
     border-radius: 5px;
-
-
+}
+.principal{
+        flex: 1;
+}
+.arttigo{
+flex: 1;
 }
